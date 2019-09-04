@@ -21,7 +21,7 @@ hunter_add_version(
     URL
 	"https://github.com/kumaakh/hunter-opencv/archive/hunter-4.1.1.zip"
     SHA1
-    6250ee88fab88220bdd0fa36254ac3d4454a059c
+    6ecd6503f8b7ab5fdd86a5579650ccbda64cba90
 )
 
 
