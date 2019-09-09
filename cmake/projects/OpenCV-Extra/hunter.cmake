@@ -11,11 +11,11 @@ hunter_add_version(
     PACKAGE_NAME
     OpenCV-Extra
     VERSION
-    "4.0.0"
+    "4.1.1"
     URL
-    "https://github.com/opencv/opencv_contrib/archive/4.0.0.tar.gz"
+    "https://github.com/opencv/opencv_contrib/archive/4.1.1.tar.gz"
     SHA1
-    4c10c8cb288a320b47ec7e87a0fdcf5a8df0f49d
+    bb7e39790b04a0a23e0ea1d4882f45c4add3adb7
 )
 
 hunter_add_version(
